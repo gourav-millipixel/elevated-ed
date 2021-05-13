@@ -1,0 +1,8 @@
+2021-05-07T10:09:15+00:00 CRITICAL Cannot redeclare wpb_custom_new_menu() (previously declared in /Applications/AMPPS/www/elevated-ed/wp-content/themes/flatsome-child/functions.php:5) in /Applications/AMPPS/www/elevated-ed/wp-content/themes/flatsome-child/functions.php on line 16
+
+2021-05-07T10:09:17+00:00 CRITICAL Cannot redeclare wpb_custom_new_menu() (previously declared in /Applications/AMPPS/www/elevated-ed/wp-content/themes/flatsome-child/functions.php:5) in /Applications/AMPPS/www/elevated-ed/wp-content/themes/flatsome-child/functions.php on line 16
+
+2021-05-07T10:09:35+00:00 CRITICAL Cannot redeclare wpb_custom_new_menu() (previously declared in /Applications/AMPPS/www/elevated-ed/wp-content/themes/flatsome-child/functions.php:5) in /Applications/AMPPS/www/elevated-ed/wp-content/themes/flatsome-child/functions.php on line 16
+
+2021-05-07T10:09:56+00:00 CRITICAL Cannot redeclare wpb_custom_new_menu() (previously declared in /Applications/AMPPS/www/elevated-ed/wp-content/themes/flatsome-child/functions.php:5) in /Applications/AMPPS/www/elevated-ed/wp-content/themes/flatsome-child/functions.php on line 17
+
